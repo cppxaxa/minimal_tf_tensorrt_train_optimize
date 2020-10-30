@@ -1,6 +1,7 @@
 ## Introduction
 
 A minimal example of a full flow - Train a model, save a model, optimize the saved model with TensorRT
+Tensorflow used 1.14
 
 ## Readme
 
