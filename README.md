@@ -6,7 +6,7 @@
 ## Readme
 
 To run tensorboard and see the model
->>tensorboard --logdir xor_010
+> tensorboard --logdir xor_010
 
 To run inference
 1. Run the cells in note_010_load_signature.ipynb
@@ -22,3 +22,7 @@ Run the cells at note_010_save_signature.ipynb
 * note_010_save_signature.ipynb
 * note_010_load_signature.ipynb    // Benchmark without optimization
 * tensorrt_inference.ipynb  	 // Benchmark with optimization
+
+## Credits and references
+* https://stackoverflow.com/questions/33997823/tensorflow-mlp-not-training-xor
+* https://stackoverflow.com/a/47235448/6484802
