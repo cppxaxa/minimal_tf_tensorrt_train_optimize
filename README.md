@@ -1,7 +1,12 @@
 ## Introduction
 
 * A minimal example of a full flow - Train a model, save a model, optimize the saved model with TensorRT
-* Tensorflow used 1.14
+* Tensorflow 1.14
+* CUDA 9.0
+* TensorRT 7.0
+* Python 3.7.9
+* Ubuntu 16.04
+* NVIDIA Driver 396.54
 
 ## Readme
 
