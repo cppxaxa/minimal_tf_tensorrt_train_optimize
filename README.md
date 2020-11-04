@@ -32,3 +32,8 @@ Run the cells at note_010_save_signature.ipynb
 ## Credits and references
 * https://stackoverflow.com/questions/33997823/tensorflow-mlp-not-training-xor
 * https://stackoverflow.com/a/47235448/6484802
+
+## Model representation
+(Taken from Netron over the .onnx after converting the tf trained model)
+
+![](representation/xor_onnx_model.png?raw=true)
